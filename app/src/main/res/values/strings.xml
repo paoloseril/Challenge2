@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+
+    <string name="bird_twitter1">How about we do some chripin?</string>
+    <string name="bird_twitter2">Can I get bird seed?</string>
+    <string name="bird_twitter3">How about we migrate back to my home?</string>
+    <string name="bird_twitter4">Peck slowly, we have all night</string>
+
+    <string name="dinosaur_rex1">You hungry? I hungry!</string>
+    <string name="dinosaur_rex2">You know what they say about big feet. Got real big ones!</string>
+    <string name="dinosaur_rex3">I like someone who has a real apetite</string>
+    <string name="dinosaur_rex4">Strong... Me likey!</string>
+
+    <string name="donkey1">Yes we can hook-up with dragons!</string>
+    <string name="donkey2">We royal critters.</string>
+    <string name="donkey3">I dislike we are called asses. We have other parts too.</string>
+    <string name="donkey4">Who ever jack is, shame on him.</string>
+
+    <string name="horse_head1">Enough with the ride jokes please.</string>
+    <string name="horse_head2">Yes I have seen Bojack.</string>
+    <string name="horse_head3">I heard of all the mounting jokes too.</string>
+    <string name="horse_head4">The old spice ad? That was me!</string>
+
+    <string name="hound1">Il chase you all night long.</string>
+    <string name="hound2">Handcufs are on tonight.</string>
+    <string name="hound3">Id like to see some lisence. The other one.</string>
+    <string name="hound4">Like a hound in uniform? Same here.</string>
+
+    <string name="parrot_head1">Polly does not want a cracker!</string>
+    <string name="parrot_head2">People say I repeat things. Word per word!</string>
+    <string name="parrot_head3">Iago is dreamy but nothing compared to you!</string>
+    <string name="parrot_head4">I like to wear colorful clothes.</string>
+
+    <string name="sea_serpent1">I like a wild side!</string>
+    <string name="sea_serpent2">You better have a backbone!</string>
+    <string name="sea_serpent3">Kraken is my brother, so im cool too!</string>
+    <string name="sea_serpent4">Dont ask me if im long. Trust me.</string>
+
+    <string name="squid1">The pen is mighty but not without ink.</string>
+    <string name="squid2">Im flexible. I can adjust.</string>
+    <string name="squid3">Im spineless but I have a backbone!</string>
+    <string name="squid4">The Japanese did a number to our reputation.</string>
+
+
+</resources>
